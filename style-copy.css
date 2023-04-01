@@ -250,4 +250,10 @@
    #head{
     font-size: 50px;
    }
+     .location-container p{
+    font-size: 30px;
+   }
+   .location-container span{
+    font-size: 20px;
+   }
 }
